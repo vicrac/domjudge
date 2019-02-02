@@ -1,7 +1,7 @@
 /*
- * This should give compiler warnings and fail with NO-OUTPUT
+ * This should give compiler warnings and fail with NO-OUTPUT,WRONG-ANSWER
  *
- * @EXPECTED_RESULTS@: NO-OUTPUT
+ * @EXPECTED_RESULTS@: NO-OUTPUT,WRONG-ANSWER
  */
 
 #include <stdio.h>
